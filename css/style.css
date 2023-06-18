@@ -153,11 +153,26 @@ section {
   /* box-shadow: 2px 2px 4px #ffffff;/ */
 }
 
-.header .logo img {
+                            /* .header .logo img {
+                            
+                              width: 10rem;
+                              /* font-size: 3rem; */
+                            }
+                             */
 
-  width: 10rem;
-  /* font-size: 3rem; */
-}
+                  .header .logo h2  {
+                  
+                    color:  white;
+                    font-size:3.5rem;
+                    letter-spacing: .4rem;
+                    font-style: italic;
+                  }
+                  .header .logo h2 em{
+                  
+                    color: rgb(246, 119, 45);
+                    letter-spacing: .4rem;
+                  }
+
 
 
 .header .navbar a {
