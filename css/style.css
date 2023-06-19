@@ -160,18 +160,20 @@ section {
                             }
                              */
 
-                  .header .logo h2  {
-                  
-                    color:  white;
-                    font-size:3.5rem;
-                    letter-spacing: .4rem;
-                    font-style: italic;
-                  }
+.header .logo h2 {
+    color: rgb(9, 8, 8);
+    font-size: 3.9rem;
+    letter-spacing: .4rem;
+    font-style: italic;
+}
+
+
                   .header .logo h2 em{
                   
                     color: #e5262b;
                     letter-spacing: .4rem;
                   }
+
 
 
 
