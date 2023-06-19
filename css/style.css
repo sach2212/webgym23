@@ -160,8 +160,8 @@ section {
                             }
                              */
 
-.header .logo h2 {
-    color: rgb(9, 8, 8);
+.header .logo .heading2 {
+    color:   #100f0f;
     font-size: 3.9rem;
     letter-spacing: .4rem;
     font-style: italic;
@@ -173,7 +173,7 @@ section {
                   
                     color: #e5262b;
                     letter-spacing: .4rem;
-                    font-size:3rem
+                    font-size:4.1rem
                   }
 
 
